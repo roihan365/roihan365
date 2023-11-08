@@ -1,5 +1,4 @@
-<center>
-    # 💫 About Me:
+# 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&random=false&width=435&lines=M.+Sohiburroihan+Akbar)](https://git.io/typing-svg)<br/>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Web+and+Mobile+Developer;UI%2FUX+Developer)](https://git.io/typing-svg)
 
@@ -21,4 +20,3 @@
 [![](https://visitcount.itsvg.in/api?id=roihan365&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</center>
